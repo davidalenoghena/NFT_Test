@@ -1,0 +1,7 @@
+.env
+env
+.vs
+vs
+node_modules
+cache
+artifacts

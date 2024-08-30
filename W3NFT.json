@@ -1,0 +1,15 @@
+{
+  "name": "My Web3bridge NFT",
+  "description": "This is a test given in week 4 of Web3bridge",
+  "image": "ipfs://QmbE5GoEBAN8cfemoawjwZEsJ6HpShJNMhXcrtcwdmwmD7", // CID of the image
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    }
+  ]
+}
